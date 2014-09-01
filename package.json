@@ -1,0 +1,38 @@
+{
+  "name": "TryHandsOnGulp",
+  "version": "1.0.0",
+  "description": "A sample application to try hands on gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.7"
+  },
+  "devDependencies": {
+    "delete": "^0.1.4",
+    "gulp": "^3.8.7",
+    "gulp-changed": "^1.0.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.3.4",
+    "gulp-concat-css": "^0.1.4",
+    "gulp-csslint": "^0.1.5",
+    "gulp-htmlmin": "^0.2.0",
+    "gulp-imagemin": "^1.0.1",
+    "gulp-jshint": "^1.8.4",
+    "gulp-less": "^1.3.5",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-minify-html": "^0.1.4",
+    "gulp-notify": "^1.4.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-strip-debug": "^1.0.0",
+    "gulp-uglify": "^0.3.1",
+    "gulp-util": "^3.0.0",
+    "gulp-watch": "^0.6.9",
+    "imagemin-pngcrush": "^0.1.0",
+    "jshint-stylish": "^0.1.5",
+    "psi": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul Sirpal",
+  "license": "MISC"
+}
