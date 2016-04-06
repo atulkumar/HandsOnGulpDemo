@@ -1,5 +1,5 @@
 ﻿/* jshint -W100 */
-debugger;
+
 var site = site || {};
 site.baseUrl = site.baseUrl || "";
 $(document).ready(function (e) {
