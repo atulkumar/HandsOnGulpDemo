@@ -2,6 +2,7 @@
 
 var site = site || {};
 site.baseUrl = site.baseUrl || "";
+
 $(document).ready(function (e) {
     // locate each partial section.
     // if it has a URL set, load the contents into the area.	
